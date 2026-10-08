@@ -1,0 +1,14 @@
+C:\Users\the raw v4\Downloads\final-project-web-builder\bin\Debug\net8.0\JournalProgram.exe
+C:\Users\the raw v4\Downloads\final-project-web-builder\bin\Debug\net8.0\JournalProgram.deps.json
+C:\Users\the raw v4\Downloads\final-project-web-builder\bin\Debug\net8.0\JournalProgram.runtimeconfig.json
+C:\Users\the raw v4\Downloads\final-project-web-builder\bin\Debug\net8.0\JournalProgram.dll
+C:\Users\the raw v4\Downloads\final-project-web-builder\bin\Debug\net8.0\JournalProgram.pdb
+C:\Users\the raw v4\Downloads\final-project-web-builder\obj\Debug\net8.0\JournalProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\the raw v4\Downloads\final-project-web-builder\obj\Debug\net8.0\JournalProgram.AssemblyInfoInputs.cache
+C:\Users\the raw v4\Downloads\final-project-web-builder\obj\Debug\net8.0\JournalProgram.AssemblyInfo.cs
+C:\Users\the raw v4\Downloads\final-project-web-builder\obj\Debug\net8.0\JournalProgram.csproj.CoreCompileInputs.cache
+C:\Users\the raw v4\Downloads\final-project-web-builder\obj\Debug\net8.0\JournalProgram.dll
+C:\Users\the raw v4\Downloads\final-project-web-builder\obj\Debug\net8.0\refint\JournalProgram.dll
+C:\Users\the raw v4\Downloads\final-project-web-builder\obj\Debug\net8.0\JournalProgram.pdb
+C:\Users\the raw v4\Downloads\final-project-web-builder\obj\Debug\net8.0\JournalProgram.genruntimeconfig.cache
+C:\Users\the raw v4\Downloads\final-project-web-builder\obj\Debug\net8.0\ref\JournalProgram.dll
