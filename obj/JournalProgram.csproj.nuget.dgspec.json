@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\the raw v4\\Downloads\\final-project-web-builder\\JournalProgram.csproj": {}
+    "C:\\Users\\the raw v4\\Documents\\GitHub\\here we go\\JournalProgram.csproj": {}
   },
   "projects": {
-    "c:\\Users\\the raw v4\\Downloads\\final-project-web-builder\\JournalProgram.csproj": {
+    "C:\\Users\\the raw v4\\Documents\\GitHub\\here we go\\JournalProgram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\the raw v4\\Downloads\\final-project-web-builder\\JournalProgram.csproj",
+        "projectUniqueName": "C:\\Users\\the raw v4\\Documents\\GitHub\\here we go\\JournalProgram.csproj",
         "projectName": "JournalProgram",
-        "projectPath": "c:\\Users\\the raw v4\\Downloads\\final-project-web-builder\\JournalProgram.csproj",
+        "projectPath": "C:\\Users\\the raw v4\\Documents\\GitHub\\here we go\\JournalProgram.csproj",
         "packagesPath": "C:\\Users\\the raw v4\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\the raw v4\\Downloads\\final-project-web-builder\\obj\\",
+        "outputPath": "C:\\Users\\the raw v4\\Documents\\GitHub\\here we go\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\the raw v4\\AppData\\Roaming\\NuGet\\NuGet.Config"
